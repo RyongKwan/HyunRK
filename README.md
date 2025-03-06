@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left">학력</h3>
-명지전문대학 컴퓨터공학과 졸업
+명지전문대학 컴퓨터공학과 졸업</p>
 한국방송통신대학 컴퓨터과학과 재학(편입)
 
 <h3 align="left">Languages and Tools:</h3>
