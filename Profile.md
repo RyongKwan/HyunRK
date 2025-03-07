@@ -13,7 +13,7 @@
 ● 명지전문대학 - 학과실습 관리, 네트워크 관리
 
 <h3 align="left">🌱 주요 자격증</h3>
-● Certified Kubernetes Administrator(CKA)
+● Certified Kubernetes Administrator(CKA)</P>
 ● 정보처리산업기사</P>
 ● 네트워크관리사 2급</P>
 
