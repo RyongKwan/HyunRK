@@ -18,7 +18,7 @@
 ● Certified Kubernetes Administrator(CKA)</P>
 ● 네트워크관리사 2급</P>
 ● 정보처리산업기사
-<img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
+<p align="left"> <img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
 
 ---
 
