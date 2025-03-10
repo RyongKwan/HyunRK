@@ -4,17 +4,17 @@
 ---
 
 <h2>소개</h2>
-<h3 align="left">📝 학력</h3>
+<h3 align="left">👨‍🎓 학력</h3>
 ● 명지전문대학 컴퓨터공학과 졸업</p>
 ● 한국방송통신대학 컴퓨터과학과 재학(편입)
 
-<h3 align="left">🔭 경력</h3>
+<h3 align="left">👨‍💼 경력</h3>
 ● 딥파인 - 모바일 기획 및 UI 설계</p>
 <h6>인턴(2개월)</h6>
 ● 명지전문대학 - 학과실습 관리, 네트워크 관리
 <h6>조교(1년)</h6>
 
-<h3 align="left">🌱 주요 자격증</h3>
+<h3 align="left">📝 주요 자격증</h3>
 ● Certified Kubernetes Administrator(CKA)</P>
 ● 네트워크관리사 2급</P>
 ● 정보처리산업기사
@@ -22,7 +22,7 @@
 
 ---
 
-<h2>프로젝트</h2>
+<h2>📁 프로젝트</h2>
 <h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
   🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
   📄 내용 : 논리적 구성도를 통한 라우팅 설정</p>
