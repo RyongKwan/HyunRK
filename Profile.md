@@ -44,8 +44,8 @@
 ### AWS를 활용한 퍼블릭 클라우드 구성
 📄 **프로젝트 파일** : [AWS Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)</p>
 🛠️ **소프트웨어** : Amazon, Linux</p>
-🔍 **내용** : EC2 인스턴스를 사용한 서버 구성, S3를 통한 정보 저장, Auto Scaling 구현 등
-💻 **주요 역할** : 모니터링, SNS 생성, CloudWatch를 통한 서버 성능 확인</p>
+🔍 **내용** : EC2 인스턴스를 사용한 서버 구성, S3를 통한 정보 저장, Auto Scaling 구현 등</p>
+💻 **주요 역할** : 모니터링, SNS 생성, CloudWatch를 통한 서버 성능 확인
 
 <br>
 
@@ -53,7 +53,7 @@
 📄 **프로젝트 파일** : [Network Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)</p>
 🛠️ **소프트웨어** : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
 🔍 **내용** : 논리적 구성도를 통한 라우팅 설정</p>
-💻 **주요 역할** : 라우팅 설정, VLAN 구성, 동적 라우팅, 프로토콜 재분배</p>
+💻 **주요 역할** : 라우팅 설정, VLAN 구성, 동적 라우팅, 프로토콜 재분배
 
 ---
 
