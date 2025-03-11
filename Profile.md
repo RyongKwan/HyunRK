@@ -25,10 +25,10 @@
 ## 📁 프로젝트
 
 ### AWS EKS를 활용한 쿠버네티스 기반 애플리케이션 구축 및 관리
-📄 **프로젝트 파일** : [Kubernetes Project](https://github.com/RyongKwan/HyunRK-Profile/blob/cca3ecbc8cc4cedd55af53f05ae1ba37368d3cb6/Kuernetes%20Project.pdf)</p>
-🛠️ **소프트웨어** : AWS, XSHELL 8, Vmware Workstation 17, ubuntu 24.04</p>
-🔍 **내용** : EKS를 기반으로 한 자동화된 관리 시스템 구축</p>
-💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리
+  📄 **프로젝트 파일** : [Kubernetes Project](https://github.com/RyongKwan/HyunRK-Profile/blob/cca3ecbc8cc4cedd55af53f05ae1ba37368d3cb6/Kuernetes%20Project.pdf)</p>
+  🛠️ **소프트웨어** : AWS, XSHELL 8, Vmware Workstation 17, ubuntu 24.04</p>
+  🔍 **내용** : EKS를 기반으로 한 자동화된 관리 시스템 구축</p>
+  💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리
 
 
 
