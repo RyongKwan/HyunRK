@@ -22,7 +22,7 @@
 
 ---
 
-<h2>📁 프로젝트</h2>[Network Project.pdf](https://github.com/user-attachments/files/19176743/Network.Project.pdf)
+<h2>📁 프로젝트</h2>Network Project.pdf
 
 <h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
   🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
