@@ -30,7 +30,7 @@
   
 ---
 
-<h2>자격증 목록</h2>
+<h2>✏️ 자격증 목록</h2>
 ● Certified Kubernetes Administrator(CKA)</P>
 ● 네트워크관리사 2급</P>
 ● 정보처리산업기사</P>
