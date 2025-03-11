@@ -27,6 +27,16 @@
   🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
   📄 내용 : 논리적 구성도를 통한 라우팅 설정</p>
   💻 주요 역할 : 라우팅 설정, VALN 구성, 동적 라우팅, 프로토콜 재분배
+
+<h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
+  🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
+  📄 내용 : 논리적 구성도를 통한 라우팅 설정</p>
+  💻 주요 역할 : 라우팅 설정, VALN 구성, 동적 라우팅, 프로토콜 재분배
+
+<h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
+  🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
+  📄 내용 : 논리적 구성도를 통한 라우팅 설정</p>
+  💻 주요 역할 : 라우팅 설정, VALN 구성, 동적 라우팅, 프로토콜 재분배
   
 ---
 
