@@ -20,7 +20,7 @@
 ● 정보처리산업기사
 <p align="left"> <img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
 
----
+
 
 ## 📁 프로젝트
 
