@@ -63,6 +63,14 @@
 🔍 **내용** : VMware vSphere를 활용하여 효율적인 가상화 환경을 구축하고 운영</p>
 💻 **주요 역할** : 서버 구현, 서버 관리
 
+<br>
+
+### Linux 서버 구성
+📄 **프로젝트 파일** : [Linux Project](https://github.com/RyongKwan/HyunRK-Profile/blob/300c128e421c1c4f5d4108ae570946e06d09b454/Linux%20Project.pdf)</p>
+🛠️ **소프트웨어** : VMware Workstation, ubuntu 24.04</p>
+🔍 **내용** : 사용자 및 그룹 등록, LVM 구성, 쿼터 설정, 서버 구성</p>
+💻 **주요 역할** : LVM 구성, 쿼터 설정
+
 ---
 
 ## ✏️ 자격증 목록
