@@ -55,6 +55,14 @@
 🔍 **내용** : 논리적 구성도를 통한 라우팅 설정</p>
 💻 **주요 역할** : 라우팅 설정, VLAN 구성, 동적 라우팅, 프로토콜 재분배
 
+<br>
+
+### vSphere을 이용한 가상화 서버 구현
+📄 **프로젝트 파일** : [vSphere Project](https://github.com/RyongKwan/HyunRK-Profile/blob/e6ac1205e45fd41d842b7ca4a7b3b7ac17e5eda9/vSphere%20Project.pdf)</p>
+🛠️ **소프트웨어** : VMware vSphere</p>
+🔍 **내용** : VMware vSphere를 활용하여 효율적인 가상화 환경을 구축하고 운영</p>
+💻 **주요 역할** : 서버 구현, 서버 관리
+
 ---
 
 ## ✏️ 자격증 목록
