@@ -24,11 +24,13 @@
 
 <h2>📁 프로젝트</h2>
 
-<h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
-  📄 프로젝트 파일 : [Network Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)
-  🛠️ 소프트웨어 : IOU WEB, XSHELL 8, VMware Workstation, FireFox</p>
-  🔍 내용 : 논리적 구성도를 통한 라우팅 설정</p>
-  💻 주요 역할 : 라우팅 설정, VALN 구성, 동적 라우팅, 프로토콜 재분배
+### CISCO 라우터와 스위치를 이용한 네트워크 설정
+
+📄 **프로젝트 파일** : [Network Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)  
+🛠️ **소프트웨어** : IOU WEB, XSHELL 8, VMware Workstation, FireFox  
+🔍 **내용** : 논리적 구성도를 통한 라우팅 설정  
+💻 **주요 역할** : 라우팅 설정, VLAN 구성, 동적 라우팅, 프로토콜 재분배  
+
 
 <h3>CISCO 라우터와 스위치를 이용한 네트워크 설정</h3>
   📄 프로젝트 파일 :  
