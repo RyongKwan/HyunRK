@@ -20,7 +20,7 @@
 ● 정보처리산업기사
 <p align="left"> <img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
 
-
+---
 
 ## 📁 프로젝트
 
@@ -30,7 +30,7 @@
 🔍 **내용** : EKS를 기반으로 한 자동화된 관리 시스템 구축</p>
 💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리
 
----
+
 
 ### CISCO 라우터와 스위치를 이용한 네트워크 설정
 📄 **프로젝트 파일** : [Network Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)</p>
