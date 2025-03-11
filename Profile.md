@@ -17,6 +17,7 @@
 ### 📝 주요 자격증
 ● Certified Kubernetes Administrator(CKA)</P>
 ● 네트워크관리사 2급</P>
+● 리눅스마스터 2급</P>
 ● 정보처리산업기사
 <p align="left"> <img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
 
@@ -43,6 +44,7 @@
 ## ✏️ 자격증 목록
 ● Certified Kubernetes Administrator(CKA)</P>
 ● 네트워크관리사 2급</P>
+● 리눅스마스터 2급</p>
 ● 정보처리산업기사</P>
 ● 컴퓨터활용능력 1급</P>
 ● GTQ 1급</P>
