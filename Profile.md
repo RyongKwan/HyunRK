@@ -25,11 +25,27 @@
 
 ## 📁 프로젝트
 
+### 쿠버네티스 리소스 생성하기
+  📄 **프로젝트 파일** : [Kubernetes Project](https://github.com/RyongKwan/HyunRK-Profile/blob/7823555636890896d4461db3e750ddb2ddb95aed/Kuernetes%20Project.pdf)</p>
+  🛠️ **소프트웨어** : Kubernetes</p>
+  🔍 **내용** : 노드 업그레이드, Pod 생성, 스토리지 및 네트워크 정책 설정, ClusterIP 서비스 등</p>
+  💻 **주요 역할** : Volume 설정, Network Policy 설정, NodePort 작업, ClusterIP 설정
+
+<br>
+
 ### AWS EKS를 활용한 쿠버네티스 기반 애플리케이션 구축 및 관리
-  📄 **프로젝트 파일** : [Kubernetes Project](https://github.com/RyongKwan/HyunRK-Profile/blob/cca3ecbc8cc4cedd55af53f05ae1ba37368d3cb6/Kuernetes%20Project.pdf)</p>
+  📄 **프로젝트 파일** : [AWS EKS Project](https://github.com/RyongKwan/HyunRK-Profile/blob/7823555636890896d4461db3e750ddb2ddb95aed/AWS%20EKS%20Project.pdf)</p>
   🛠️ **소프트웨어** : AWS, XSHELL 8, Vmware Workstation 17, ubuntu 24.04</p>
   🔍 **내용** : EKS를 기반으로 한 자동화된 관리 시스템 구축</p>
   💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리
+
+<br>
+
+### AWS를 활용한 퍼블릭 클라우드 구성
+📄 **프로젝트 파일** : [AWS Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)</p>
+🛠️ **소프트웨어** : Amazon, Linux</p>
+🔍 **내용** : EC2 인스턴스를 사용한 서버 구성, S3를 통한 정보 저장, Auto Scaling 구현 등
+💻 **주요 역할** : 모니터링, SNS 생성, CloudWatch를 통한 서버 성능 확인</p>
 
 <br>
 
