@@ -28,7 +28,7 @@
 📄 **프로젝트 파일** : [Kubernetes Project](https://github.com/RyongKwan/HyunRK-Profile/blob/cca3ecbc8cc4cedd55af53f05ae1ba37368d3cb6/Kuernetes%20Project.pdf)</p>
 🛠️ **소프트웨어** : AWS, XSHELL 8, Vmware Workstation 17, ubuntu 24.04</p>
 🔍 **내용** : EKS를 기반으로 한 자동화된 관리 시스템 구축</p>
-💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리</p>
+💻 **주요 역할** : 서비스 배포 및 트래픽 분산, 서비스 어카운트 관리</p></p>
 
 ### CISCO 라우터와 스위치를 이용한 네트워크 설정
 📄 **프로젝트 파일** : [Network Project](https://github.com/RyongKwan/HyunRK-Profile/blob/aa867b9743ed4f97706170ea9fcb00749967210d/Network%20Project.pdf)</p>
